@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/serveradmin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexflor.es
+  * I am serveradmin (https://keybase.io/serveradmin) on keybase.
+  * I have a public key with fingerprint 787B BF72 6546 7718 7846  E543 687E F6FF F816 42CB
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "787bbf72654677187846e543687ef6fff81642cb",
+            "host": "keybase.io",
+            "key_id": "687ef6fff81642cb",
+            "uid": "fcca3b0d1001351f2b61333209aa0500",
+            "username": "serveradmin"
+        },
+        "service": {
+            "hostname": "alexflor.es",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397861167,
+    "expire_in": 157680000,
+    "prev": "9f763656ede169608b49f49d98f0c2740da98707b6567bbc93c8b74bc07e88fb",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.8
+Comment: https://keybase.io/crypto
+
+yMHyAnicbZFtSBRbGMd3LY2UwIJC+iA0eYtisZmd2XNm9sZ2U5HIhGvt9sG8LfNy
+Zh1bZ3Zn1pdVFl8Co7gkGJjiy6UijBsIglpyZTOxNjOMUPtyManwFQq94UV8Ic8s
+9q3zZeZ5nt///5zzPCP7dlmSrb+6blg/1XXlWceGvpVZLhU8PlVNCJoUJpzVxDUU
+/8iK6kN6QFfUEOEkIAsFQYZ24GAAhBQLWQYgB0MDFiIZyLLMUoCxiwJhI4o1w1Rg
+G4E3UKai4RwOvIqEsz/hy+IFWRR5WiAliiQp2kHJdgFQNE3bSY7nSQdJmqCBdJUv
+RZjGf+VI56VSRSUitnioiLhQHe++A/F+VCn7NT0TGVgd0LWQJmp+XCgOhQJOUxcK
+B0ywAgneHQuvoKgSfjkW4AaGoqmEk8KkGFJMT4rmIAsoCkAbgSoDio68+AZOygEB
+S+JjtkHl2JKTIaCBAyAJUYADJCswnMxwEsfKpGiHDCnxHAtJKGAGT1bkaJEVICOI
+JEQsK5tzMVBQ1QgnwNfkfeabFZ/Kh8p0RESGh4p2W6zJlqTEBHN3luS9qT822uHe
+810C7ZEIfyZqSy1ZfVrQ61oMv7u6eDn24e9a9++FMxWtVP1S4cGaloa+3+76o3+l
+GEuJK8zq23PHjz4Y7GmJjnx+bs8N7o/VrU/k/fOe4JtiHNVfc6h1GjWnu6YGujY8
+Mj11q2M0aTM2OP4qK6d562N7ToredCDc+KaPnR8wjqSveDx3fFX/lsQ8Osgf5x/N
+Xvla+iX7/M35YOD/SbfafTbt9Yk/qlpnlumT7oye9Qs9Ym99xlp3Quf4xby5F55l
+18vZSX0hc+1h1mZ20WrNf425M2nCZqcy1n966Hq0LTj3Z9rhCbLhiV53b3qjrfmX
+2mf3+/KHj43eXqjYmsuKbQMpCh8w
+=4Sbe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/serveradmin
+
+==================================================================
